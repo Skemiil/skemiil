@@ -6,9 +6,5 @@
 
 <h3 align="center">
 🔭 I’m currently working on a lot of stuff~ <br>
-🌱 I’m currently learning <important> Wpf </important><br>
 👯 I’m looking to Collaborate With People!<br>
-🤔 I’m looking for friends <br>
-💬 Ask me about ANYTHING??<br>
-😄 Pronouns: He / Him<br>
-⚡ Fun fact: You are curently reading this!! <br> <br> 
+💬 Ask me about ANYTHING?? <br> <br> 
