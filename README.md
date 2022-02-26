@@ -9,4 +9,4 @@
 👯 I’m looking to Collaborate With People!<br>
 💬 Ask me about ANYTHING?? <br> <br> 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skemiil&show_icons=true&theme=radical)
