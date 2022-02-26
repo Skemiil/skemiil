@@ -8,3 +8,5 @@
 🔭 I’m currently working on a lot of stuff~ <br>
 👯 I’m looking to Collaborate With People!<br>
 💬 Ask me about ANYTHING?? <br> <br> 
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skemiil)](https://github.com/anuraghazra/github-readme-stats)
