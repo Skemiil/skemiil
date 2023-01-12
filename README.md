@@ -15,4 +15,4 @@
 👯 I’m looking to Collaborate With People!<br>
 💬 Ask me about ANYTHING?? <br> <br> 
   
-  ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com/api?username=skemiil&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=skemiil&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
